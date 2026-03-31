@@ -5,5 +5,5 @@ Soy Máximo Trejo, un analista de sistemas en formación con conocimientos en:
 - Power BI
 - Transformación de datos
 
-# proyectos (por ahora solo académicos, puede que haya algunos defectos)
+## proyectos (por ahora solo académicos, puede que haya algunos defectos)
 - Gestión académica
