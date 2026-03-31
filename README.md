@@ -5,5 +5,13 @@ Soy Máximo Trejo, un analista de sistemas en formación con conocimientos en:
 - Power BI
 - Transformación de datos
 
-## proyectos (por ahora solo académicos, puede que haya algunos defectos)
-- Gestión académica
+## Proyecto de Gestión Académica
+## Objetivo
+Analizar el rendimiento de los distintos estudiantes del Instituto Carlos Pellegrini en los exámenes finales.
+
+## Dataset
+Datos simulados de estudiantes del Instituto.
+
+## Transformaciones
+- Limpieza de datos
+- Eliminación de nulos
